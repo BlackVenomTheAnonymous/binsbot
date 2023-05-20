@@ -73,7 +73,7 @@ def gen_command(update, context):
                       f"Amount ➔ {amount}\
 
 n" \
-                      f"Generated Cards:\n" \
+                      f"Generated Cards:\
                       f"Card 1: XXXX XXXX XXXX XXXX - MM/YY - CVV\n" \
                       f"Card 2: XXXX XXXX XXXX XXXX - MM/YY - CVV\n" \
                       f"Card 3: XXXX XXXX XXXX XXXX - MM/YY - CVV\n"
