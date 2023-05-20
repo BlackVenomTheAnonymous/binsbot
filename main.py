@@ -71,8 +71,6 @@ def gen_command(update, context):
     # Generate credit card information and save it in a text file
     generated_cards = f"Extrap ➔ {bin_number}\n" \
                       f"Amount ➔ {amount}\
-
-n" \
                       f"Generated Cards:\
                       f"Card 1: XXXX XXXX XXXX XXXX - MM/YY - CVV\n" \
                       f"Card 2: XXXX XXXX XXXX XXXX - MM/YY - CVV\n" \
