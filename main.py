@@ -2,6 +2,7 @@ import telegram
 from telegram.ext import Updater, CommandHandler
 from telegram import InlineKeyboardMarkup, InlineKeyboardButton
 import requests
+pip install --upgrade python-telegram-bot.
 
 # Replace 'YOUR_TELEGRAM_BOT_TOKEN' with your actual bot token
 bot_token = '6247955593:AAEiAeHw3V5U91k-ydrzDUAQk2bMcv-05Ts'
